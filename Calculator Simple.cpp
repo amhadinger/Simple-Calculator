@@ -6,7 +6,6 @@ using int32 = int;
 void Intro();
 void Intro() {
 	std::cout << "Welcome to Simple Calulator" << std::endl;
-	std::cout << "Made by Austin Hadinger for Education Fair Project" << std::endl;
 	void TakeInput();
 }
 
